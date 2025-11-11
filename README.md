@@ -1,5 +1,5 @@
 # PDF-Data-Extraction-Application 
-A Python-based application that extracts data from customer-filled PDF forms, converts the extracted data into structured formats such as Excel or CSV, and handles images within the PDF. This project was developed as part of a hackathon to solve a real-world problem 🤔.
+A Python-based application that extracts data from customer-filled PDF forms, converts the extracted data into structured formats such as Excel or CSV, and handles images within the PDF. This project was developed as part of a hackathon to solve a real-world problem .
 
 ## Features 
 Accurately extracts text and selection marks from PDF forms 
@@ -18,7 +18,7 @@ Pillow and OpenCV for image processing
 pytesseract for OCR 
 pandas for data manipulation and conversion to Excel/CSV 
 TensorFlow or PyTorch for machine learning 
-Flask for frontend development 📁-
+Flask for frontend development 
 Gemini API (if applicable) for API integration 
 
 ## Getting Started 
